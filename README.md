@@ -5,7 +5,7 @@
 한컴타자연습의 '자원캐기'타자게임을 모티브로 한 게임이다.
 
 
-## 시연 영상
+## 게임 영상
 
 ![GIFMaker_me](https://github.com/user-attachments/assets/dd54d340-d258-4d84-a2b0-d685c0824cdd)
 
