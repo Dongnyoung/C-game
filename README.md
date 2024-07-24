@@ -7,6 +7,8 @@
 
 ## 시연 영상
 
+![GIFMaker_me](https://github.com/user-attachments/assets/dd54d340-d258-4d84-a2b0-d685c0824cdd)
+
 
 
 ## 클래스 설계
