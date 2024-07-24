@@ -7,8 +7,7 @@
 
 ## 게임 영상
 
-![Uploading 화면 녹화 중 2024-07-24 195516.gif…]()
-
+![화면 녹화 중 2024-07-24 195516](https://github.com/user-attachments/assets/f92be681-39d8-46cd-96d3-bb3b6638e259)
 
 
 
