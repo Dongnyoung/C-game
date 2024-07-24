@@ -7,7 +7,8 @@
 
 ## 게임 영상
 
-![GIFMaker_me](https://github.com/user-attachments/assets/dd54d340-d258-4d84-a2b0-d685c0824cdd)
+![Uploading 화면 녹화 중 2024-07-24 195516.gif…]()
+
 
 
 
